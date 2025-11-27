@@ -1,0 +1,12 @@
+Campus Energy Dashboard Summary
+---------------------------------
+Total Campus Consumption: 588 kWh
+Highest Consuming Building: hostel
+Peak Load Time: 2025-01-02 01:00:00
+Daily Trend Sample: timestamp
+2025-01-01    326
+2025-01-02    262
+Freq: D, Name: kwh, dtype: int64
+Weekly Trend Sample: timestamp
+2025-01-05    588
+Freq: W-SUN, Name: kwh, dtype: int64
